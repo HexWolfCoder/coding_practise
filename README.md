@@ -1,2 +1,9 @@
 # coding_practise
-My codign learn labs
+***My coding learn labs
+
+---
+
+## Block1: Python
+    
+    * Simply Programs
+    
