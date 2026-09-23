@@ -1,0 +1,21 @@
+# Бэкапы редакторов (Vim, Emacs, Nano и др.)
+*~
+
+# Виртуальное окружение Python
+venv/
+.venv/
+env/
+ENV/
+
+# Python-мусор 
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Файлы IDE
+.idea/
+.vscode/
+
